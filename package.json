@@ -6,7 +6,7 @@
   "dependencies": {
     "@mars/heroku-js-runtime-env": "^3.0.2",
     "core-js": "^2.5.3",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
